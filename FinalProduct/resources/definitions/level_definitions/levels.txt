@@ -1,0 +1,102 @@
+# Level 1
+
+START_LEVEL
+level_name:ForestNight
+ball_velocities:0,6
+background:image(FinalProduct/resources/background_images/Levels/forest_night.png)
+paddle_speed:10
+paddle_width:160
+block_definitions:FinalProduct/resources/definitions/block_definitions/imaged_blocks.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:3
+START_BLOCKS
+-------s
+-------a
+-------s
+
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+
+START_LEVEL
+level_name:WelcomeToTheJungle
+ball_velocities:-45,5 -30,5 -15,5 15,5 30,5 45,5
+background:image(FinalProduct/resources/background_images/Levels/jungle.jpg)
+paddle_speed:10
+paddle_width:200
+block_definitions:FinalProduct/resources/definitions/block_definitions/imaged_blocks.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:16
+START_BLOCKS
+--zl-zl-zl-zl
+--zl-zl-zl-zl
+
+END_BLOCKS
+END_LEVEL
+
+# Level 3
+
+START_LEVEL
+level_name:Advanture
+ball_velocities:-15,6 15,6
+background:image(FinalProduct/resources/background_images/Levels/advanture.png)
+paddle_speed:10
+paddle_width:220
+block_definitions:FinalProduct/resources/definitions/block_definitions/imaged_blocks.txt
+blocks_start_x:25
+blocks_start_y:120
+row_height:25
+num_blocks:26
+START_BLOCKS
+-zzzzzzzzzzzzz
+-lllllllllllll
+
+END_BLOCKS
+END_LEVEL
+
+# Level 4
+
+START_LEVEL
+level_name:Mars
+ball_velocities:-5,6 5,6
+background:image(FinalProduct/resources/background_images/Levels/mars.jpg)
+paddle_speed:10
+paddle_width:180
+block_definitions:FinalProduct/resources/definitions/block_definitions/imaged_blocks.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:14
+START_BLOCKS
+----aaaaaaa----
+----sssssss----
+
+END_BLOCKS
+END_LEVEL
+
+# Level 5
+
+START_LEVEL
+level_name:BigTree
+ball_velocities:-60,3 -45,4 -30,5 -15,6 15,6 30,5 45,4 60,3
+background:image(FinalProduct/resources/background_images/Levels/bigtree.png)
+paddle_speed:10
+paddle_width:200
+block_definitions:FinalProduct/resources/definitions/block_definitions/imaged_blocks.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:22
+START_BLOCKS
+-------s-------
+------zzz------
+----sssssss----
+--sssssssssss--
+
+END_BLOCKS
+END_LEVEL

@@ -1,0 +1,12 @@
+# default values for blocks
+default height:25 width:50 stroke:color(black)
+
+# block definitions
+bdef symbol:a fill:image(FinalProduct/resources/block_images/aliens.jpg)
+bdef symbol:z fill:image(FinalProduct/resources/block_images/zebra.jpg)
+bdef symbol:l fill:image(FinalProduct/resources/block_images/leopard.jpg)
+bdef symbol:s fill:image(FinalProduct/resources/block_images/stone.jpg)
+
+# spacers definitions
+sdef symbol:- width:50
+sdef symbol:~ width:25

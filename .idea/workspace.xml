@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Arkanoid:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d803d78f-2aa6-4300-9f92-a4c0a9218244" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h5EnOA5cZZO20dwGMFccYB3vY0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../לימודים/מדעי המחשב/שנה א/סמסטר ב/מבוא לתכנות מונחה עצמים/biuoop.xml" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="MainClass" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arkanoid.MainClass" />
+      <module name="Arkanoid" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkstyle-5.7-all.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/FinalProduct/checkstyle-5.7-all.jar" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d803d78f-2aa6-4300-9f92-a4c0a9218244" name="Default Changelist" comment="" />
+      <created>1599292718673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599292718673</updated>
+      <workItem from="1606572051849" duration="4000" />
+      <workItem from="1607593316545" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606572109151">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1606572109151" />
+    <state x="370" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600764112398">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1600764112398" />
+    <state x="316" y="50" key="FileChooserDialogImpl" timestamp="1599988439140">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="316" y="50" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599988439140" />
+    <state width="1237" height="261" key="GridCell.Tab.0.bottom" timestamp="1608147224343">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608147224343" />
+    <state width="1237" height="261" key="GridCell.Tab.0.center" timestamp="1608147224343">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608147224343" />
+    <state width="1237" height="261" key="GridCell.Tab.0.left" timestamp="1608147224343">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608147224343" />
+    <state width="1237" height="261" key="GridCell.Tab.0.right" timestamp="1608147224343">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608147224343" />
+    <state width="1237" height="351" key="GridCell.Tab.1.bottom" timestamp="1600438374307">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="351" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600438374307" />
+    <state width="1237" height="351" key="GridCell.Tab.1.center" timestamp="1600438374307">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="351" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1600438374307" />
+    <state width="1237" height="351" key="GridCell.Tab.1.left" timestamp="1600438374307">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="351" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1600438374307" />
+    <state width="1237" height="351" key="GridCell.Tab.1.right" timestamp="1600438374307">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="351" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1600438374307" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1600764378605">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600764378605" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1599979925844">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1599979925844" />
+  </component>
+</project>
