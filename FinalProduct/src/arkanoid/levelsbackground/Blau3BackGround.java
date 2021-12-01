@@ -1,9 +1,6 @@
 /**
  * This code was written by Itamar Laredo.
- * ID: 311547087
  * Date: 13/9/2020
- * All rights reserved.
- * Contact by email: Laredo93i@gmail.com
  */
 package arkanoid.levelsbackground;
 
