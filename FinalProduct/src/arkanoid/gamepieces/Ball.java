@@ -1,7 +1,6 @@
 /**
  * This code was written by Itamar Laredo.
  * Date: 13/9/2020
- * All rights reserved.
  */
 package arkanoid.gamepieces;
 
